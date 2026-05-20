@@ -1,6 +1,6 @@
 # Laboratory-Work-5-Activity-Comparative-Analysis-Completion-requirements
 
-(https://colab.research.google.com/drive/1z_Eixe_yt5yU4OKJIfo0LrKrXqqT6vG6?usp=sharing)
+https://colab.research.google.com/drive/1z_Eixe_yt5yU4OKJIfo0LrKrXqqT6vG6?usp=sharing
 
 GUIDE QUESTIONS (FINAL REFLECTION)
 A. Model Performance
